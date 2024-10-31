@@ -1,7 +1,7 @@
 # 2414010057_CristovalPratamaSiahaan_UTS_DP5
 JAWABAN UTS PRAKTIKUM DASAR PEMROGRAMAN
 
-LINK VIDEO YOUTUBE : 
+LINK VIDEO YOUTUBE : https://youtu.be/5owaex9suHE
 
 Deskripsi Hasil Output:
 
